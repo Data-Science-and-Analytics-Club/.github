@@ -48,7 +48,7 @@ We provide a wealth of resources to help you in your data science journey, inclu
 ## Contact Us
 We'd love to hear from you! If you have any questions, suggestions, or would like to get involved, please reach out to us:
 - **Email**: [datasciclub@apsit.edu.in](mailto:datasciclub@apsit.edu.in)
-- **Instagram**: Follow us on [IG]([https://chat.whatsapp.com/LTs6cW1Npor89XWSOk4uC8](https://www.instagram.com/dsaclub_apsit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
+- **Instagram**: Follow us on [IG](https://www.instagram.com/dsaclub_apsit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - **Linkedin**: Follow our [Page](https://www.linkedin.com/in/apsits-dsa-club/)
 - **WhatsApp**: Join our [Group](https://chat.whatsapp.com/LTs6cW1Npor89XWSOk4uC8)
 
