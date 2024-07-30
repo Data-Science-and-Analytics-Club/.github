@@ -1,4 +1,4 @@
-# Data Science and Analytics Club
+# APSIT's Data Science and Analytics Club
 
 Welcome to the Data Science and Analytics Club! Our mission is to foster a community of data enthusiasts, from beginners to experts, who are passionate about exploring the vast world of data science, analytics, and machine learning. Whether you're looking to learn, collaborate on projects, or advance your career, we have something for everyone.
 
